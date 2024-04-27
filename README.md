@@ -32,7 +32,9 @@ El proyecto se basa en una plantilla de Spring boot y sirve para manejar una bas
       5.- Hacer un test de dicha conexión.
 
 ## 3.- Pruebas
+  * Revisar documentación Swagger en http://localhost:8000/doc/swagger-ui/index.html#
   * Descargar Postman.
   * Abrir Postman.
+  * Remitirse a la documentación para hacer las pruebas pertinentes
 
 ## 4.- Ejecución

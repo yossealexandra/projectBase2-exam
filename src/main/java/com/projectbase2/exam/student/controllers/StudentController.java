@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import java.util.Optional;
 
 @RestController
+@CrossOrigin(origins = "http://localhost:4200")
 @RequestMapping("/student")
 @Tag(name= "Students resource")
 public class StudentController {

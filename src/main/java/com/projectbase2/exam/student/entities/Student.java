@@ -21,6 +21,9 @@ public class Student {
     @Column
     private String lastName;
 
+    @Column
+    private Long passport;
+
     @Column(name="email_address", unique = true, nullable = false)
     private String email;
 
@@ -28,5 +31,18 @@ public class Student {
     private String gender;
 
     private LocalDate birthDate;
+
+    @Column(name="phone_number")
+    private String phoneNumber;
+
+    @Column
+    private String address;
+
+    @Column
+    private String nationality;
+
+    @Column(name="marital_status")
+    private String maritalStatus;
+
 
 }

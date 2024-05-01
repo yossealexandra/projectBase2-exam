@@ -41,5 +41,5 @@ El proyecto se basa en una plantilla de Spring boot y sirve para manejar una bas
   * Una vez cargado el proyecto en localhost ubicar el script (Script_Insert_Student.sql) en el directorio resources/scripts en MySql WorkBench.
   * Desde Postman ejecutar los servicios que deseen probarse según la API Rest documentada en Swagger.
 
-## 4.- Diagramación
+## 5.- Diagramación
   * El diagrama de clases (Clase extendida aún no implementada) se encuentra en directorio raíz del proyecto.
